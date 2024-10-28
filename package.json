@@ -1,0 +1,11 @@
+{
+  "name": "ts_project",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
